@@ -581,3 +581,5 @@ VALUES ('sell38003062','bookstorexxx06','978-1442394933',250,50000,'2017-06-01',
 ;
 
 
+select * from Bookstore;
+
